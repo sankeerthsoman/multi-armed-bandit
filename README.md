@@ -1,2 +1,3 @@
 # multi-armed-bandit
-# test
+# Sankeerth Somasekharan mrc19ssn
+# Baptiste Egnell ens19bel
